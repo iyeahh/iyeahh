@@ -1,19 +1,23 @@
-### iyeahh 👋
-<img src="https://camo.githubusercontent.com/e123a3c48825cb71caeb307ab34e9e16c36c129c5d0233a5b9413851a1e1445b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4630353133383f267374796c653d666c6174266c6f676f3d5377696674266c6f676f436f6c6f723d464646464646"/>
+## 🙋🏻‍♀️ About Me
+* UI에 관심이 많습니다.
+* 효율을 중요시 합니다.
+* 유저의 입장에서 생각합니다.
 
-<!--
-**iyeahh/iyeahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗂️ 출시한 앱 Projects
+**⛅️ 웨더포유**
+* 배경색만으로도 날씨를 알 수 있는 직관적인 날씨앱 ([README](https://github.com/iyeahh/WeatherForYou/blob/main/README.md)/[AppStore](https://apps.apple.com/kr/app/%EC%9B%A8%EB%8D%94%ED%8F%AC%EC%9C%A0-weatherforyou/id6472397391?l=en-GB))
+<img width="1416" alt="스크린샷 2023-11-21 오후 3 35 53" src="https://github.com/iyeahh/iyeahh/assets/120009678/c2ae42e7-6293-43c1-9ce5-cd2a5c24f7cd">
 
-Here are some ideas to get you started:
+**📔 띵커바웃**
+* 카테고리 별로 메모를 저장할 수 있는 메모앱 ([README](https://github.com/iyeahh/ThinkingAbout/blob/main/README.md)/[AppStore](https://apps.apple.com/kr/app/%EB%9D%B5%EC%BB%A4%EB%B0%94%EC%9B%83-think-about/id6470182737?l=en-GB))
+<img width="1417" alt="스크린샷 2023-11-21 오후 3 35 13" src="https://github.com/iyeahh/iyeahh/assets/120009678/ca3503d6-03bd-4633-acea-180a9b1cea74">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![iyeahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyeahh)](https://github.com/anuraghazra/github-readme-stats)
+## 👩🏻‍🎓 Education
+### [새싹X맛있는코드(야곰아카데미)] iOS 앱 개발자 부트캠프
+* 22.12 - 22.6 (6개월)
+* iOS/UIKit/CS, 8개 팀/개인 프로젝트 진행, 현업자 코드리뷰 반영
+
+### 앨런 스쿨 Swift 문법 마스터 스쿨
+* 22.10 - 22.12 (2개월)
+* Swift 문법, 메모리 구조, 컴퓨터의 동작원리, CS
