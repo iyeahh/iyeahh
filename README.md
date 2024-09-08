@@ -4,10 +4,13 @@
 - 유저 입장에서 생각하고 고민합니다.
   
 ## 🗂️ Projects
-**✌🏻 4cut.zip**
+**✌🏻 4cuts.zip**
 * 네컷 사진과 관련된 포토부스, 포즈 등을 함께 공유하는 SNS 앱 ([README](https://github.com/iyeahh/4cut.zip-iOS/blob/main/README.md))
 <img width="1417" alt="스크린샷 2024-09-02 오후 4 14 47" src="https://github.com/user-attachments/assets/98db1161-a6f8-4b1a-92c5-2dd7b7d07747">
 
+**✌💚 MyHearts**
+* 사진을 검색하고 좋아하는 사진을 모아두는 앱 ([README](https://github.com/iyeahh/MyHearts-iOS/blob/main/README.md))
+<img width="1437" alt="스크린샷 2024-09-08 오후 3 08 54" src="https://github.com/user-attachments/assets/cfeec8e0-683e-4972-9dd1-d943dfbca4de">
 
 ## 🗂️ 출시한 앱 Projects
 **⛅️ 웨더포유**
