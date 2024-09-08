@@ -5,7 +5,7 @@
   
 ## 🗂️ Projects
 **✌🏻 4cut.zip**
-* 네컷 사진과 관련된 포토부스, 포즈 등을 함께 공유하는 SNS 앱 ([README]((https://github.com/iyeahh/4cut.zip-iOS/blob/main/README.md))
+* 네컷 사진과 관련된 포토부스, 포즈 등을 함께 공유하는 SNS 앱 ([README]((https://github.com/iyeahh/4cut.zip-iOS/blob/main/README.md)))
 <img width="1417" alt="스크린샷 2024-09-02 오후 4 14 47" src="https://github.com/user-attachments/assets/98db1161-a6f8-4b1a-92c5-2dd7b7d07747">
 
 
