@@ -2,6 +2,12 @@
 - 문제 해결 지향적인 관점을 좋아합니다.
 - 효율을 중요시 합니다.
 - 유저 입장에서 생각하고 고민합니다.
+  
+## 🗂️ Projects
+**✌🏻 4cut.zip**
+* 네컷 사진과 관련된 포토부스, 포즈 등을 함께 공유하는 SNS 앱 ([README]((https://github.com/iyeahh/4cut.zip-iOS/blob/main/README.md))
+<img width="1417" alt="스크린샷 2024-09-02 오후 4 14 47" src="https://github.com/user-attachments/assets/98db1161-a6f8-4b1a-92c5-2dd7b7d07747">
+
 
 ## 🗂️ 출시한 앱 Projects
 **⛅️ 웨더포유**
@@ -14,7 +20,11 @@
 
 
 ## 👩🏻‍🎓 Education
-### [새싹] iOS 앱 개발자 부트캠프 (야곰 아카데미)
+### [청년취업사관학교 SeSAC] iOS 앱 개발자 데뷔과정 PLUS (메모리스)
+* 24.5 -
+* iOS/UIKit/SwiftUI/RxSwift 학습
+
+### [청년취업사관학교 SeSAC] iOS 앱 개발 부트캠프 (야곰 아카데미)
 * 22.12 - 23.6 (6개월)
 * iOS/UIKit/CS 학습, 8개 팀/개인 프로젝트 진행, 현업자 코드리뷰 반영
 
