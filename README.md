@@ -6,7 +6,7 @@
 ## 🗂️ Projects
 **🙅🏻 노담하장**
 * 단번에 금연이 힘들 때 목표 흡연 횟수를 줄여 금연을 도와주는 앱 ([README](https://github.com/iyeahh/NoDamHaJang-iOS/blob/main/README.md))
-![무제 001](https://github.com/user-attachments/assets/e65eff85-d18c-4ae1-b80f-903f8f917395)
+<img src="https://github.com/user-attachments/assets/093d5305-7c80-4ff9-9971-7bb9265a7ce9" width="1300" />
 
 **✌🏻 4cuts.zip**
 * 네컷 사진과 관련된 포토부스, 포즈 등을 함께 공유하는 SNS 앱 ([README](https://github.com/iyeahh/4cut.zip-iOS/blob/main/README.md))
