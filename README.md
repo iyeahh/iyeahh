@@ -1,11 +1,6 @@
-## 🙋🏻‍♀️ About Me
-- 문제 해결 지향적인 관점을 좋아합니다.
-- 효율을 중요시 합니다.
-- 유저 입장에서 생각하고 고민합니다.
-  
 ## 🗂️ Projects
 **🙅🏻 노담하장**
-* 단번에 금연이 힘들 때 목표 흡연 횟수를 줄여 금연을 도와주는 앱 ([README](https://github.com/iyeahh/NoDamHaJang-iOS/blob/main/README.md))
+* 단번에 금연이 힘들 때 목표 흡연 횟수를 줄여 금연을 도와주는 앱 ([README](https://github.com/iyeahh/NoDamHaJang-iOS/blob/main/README.md) / [App Store](https://apps.apple.com/kr/app/%EB%85%B8%EB%8B%B4%ED%95%98%EC%9E%A5-lets-quit-smoking/id6711330923?l=en-GB))
 ![무제 001](https://github.com/user-attachments/assets/9ab0ccce-2b27-4c40-bf49-590f1be7ed6e)
 
 **✌🏻 4cuts.zip**
@@ -23,13 +18,9 @@
 
 ## 👩🏻‍🎓 Education
 ### [청년취업사관학교 SeSAC] iOS 앱 개발자 데뷔과정 PLUS (메모리스)
-* 24.5 -
-* iOS/UIKit/SwiftUI/RxSwift
+* 24. 5 - 수료 예정
+* 메모리 관리(ARC), GCD, Swift Concurrency, Method Dispatch
 
 ### [청년취업사관학교 SeSAC] iOS 앱 개발 부트캠프 (야곰 아카데미)
-* 22.12 - 23.6 (6개월)
-* iOS/UIKit/CS 학습, 8개 팀/개인 프로젝트 진행, 현업자 코드리뷰 반영
-
-### 앨런 스쿨 Swift 문법 마스터 스쿨
-* 22.11 - 22.12 (2개월)
-* Swift 문법, 메모리 구조, 컴퓨터의 동작원리, CS 학습
+* 23. 1 - 23. 6 (6개월) ```수료```
+* 8개의 팀/개인 프로젝트 진행하며 협업을 위한 원활한 토론 및 소통
